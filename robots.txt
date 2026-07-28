@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ljvi5a.nihon-bare.com/sitemap.xml
